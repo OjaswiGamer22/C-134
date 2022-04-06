@@ -1,0 +1,10 @@
+.heading1{
+    width:100%;
+    margin-top:0%;
+    font-size: larger;
+    line-height: 2;
+}
+body{
+    background-size:cover;
+    background-position: center;
+}
